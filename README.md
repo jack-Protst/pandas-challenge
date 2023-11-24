@@ -1,1 +1,3 @@
 # pandas-challenge
+
+I used chatgpt to help format my code through lists like in In[89] as well as give me an idea of how to create snapshots, in In[86] specifically to help create the snapshot as well as set up dataframs to display multiple outputs at once such as in In[104] with the dataframe. I also used chatgpt to help in In[153] where I was having an issue with pd.cut because of the "$" value and it gave me the str.replace code so I could set up my bins
